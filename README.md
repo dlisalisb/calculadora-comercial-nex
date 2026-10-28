@@ -28,6 +28,10 @@ As regras e configurações comerciais usadas pelo aplicativo são reservadas e 
 - PySide6 para a interface desktop.
 - PyInstaller utilizado no empacotamento para Windows.
 
+## Interface da aplicação
+
+![Tela da Calculadora Comercial Nex](calculadora-nex.png)
+
 
 ## Limitações e disponibilidade
 
