@@ -30,7 +30,7 @@ As regras e configurações comerciais usadas pelo aplicativo são reservadas e 
 
 ## Interface
 
-![Tela da Calculadora Comercial Nex](./screenshot-calculadora.png)
+![Tela da Calculadora Comercial Nex]([./screenshot-calculadora.png](https://media.licdn.com/dms/image/v2/D4D22AQFSMxYySmSxbQ/feedshare-image-high-res/B4DaEcrlAKGYAY-/0/1791482548673?e=1795046400&v=beta&t=iFSZwz2mPM2FmCIoIzigIGQhjQCLRFCTyFQ4KcYlbFI))
 
 ## Limitações e disponibilidade
 
