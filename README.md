@@ -1,47 +1,50 @@
 # Calculadora Comercial Nex
 
-Aplicativo desktop desenvolvido para apoiar simulações comerciais relacionadas à compensação de créditos de energia. Este repositório apresenta o projeto em formato de portfólio; não distribui o aplicativo nem seus materiais internos.
+Aplicação desktop para organizar entradas e apresentar simulações comerciais relacionadas à compensação de créditos de energia.
 
-## Sobre o projeto
+**Tecnologias:** Python · PySide6 · PyInstaller
 
-A Calculadora Comercial Nex foi criada como projeto próprio para organizar e apresentar resultados de simulações comerciais em uma interface gráfica simples. A versão apresentada é a **1.0.0**.
+**Versão apresentada:** 1.0.0 · Windows
 
-**Autoria:** projeto próprio desenvolvido por mim.
+**Disponibilidade:** portfólio documental; código-fonte e executável privados.
 
-## Funcionalidades
+## Problema e solução
 
-A versão 1.0.0 inclui:
+O projeto reúne os dados de uma simulação em uma interface gráfica e apresenta um resumo dos resultados, com recursos para consultar demonstrativos e copiar resumos. O objetivo é apoiar a organização e a apresentação das simulações comerciais.
 
-- Interface gráfica para desktop.
-- Seleção de distribuidora e bandeira tarifária.
-- Entrada do crédito de energia em kWh e do percentual de desconto.
-- Exibição de um resumo dos resultados calculados.
-- Abertura de um demonstrativo do cálculo.
-- Cópia de resumos para a área de transferência.
-- Tela para configurar parâmetros tarifários.
-
-As regras e configurações comerciais usadas pelo aplicativo são reservadas e não fazem parte deste material.
-
-## Tecnologias
-
-- Python.
-- PySide6 para a interface desktop.
-- PyInstaller utilizado no empacotamento para Windows.
+**Minha participação:** desenvolvimento da aplicação como projeto próprio em Python e PySide6. A autoria do projeto é minha; ferramentas de IA fazem parte do meu processo de desenvolvimento e revisão, sem substituir a responsabilidade pelas decisões e pelos resultados.
 
 ## Interface da aplicação
 
-![Tela da Calculadora Comercial Nex](calculadora-nex.png)
+![Interface da Calculadora Comercial Nex, versão 1.0.0](calculadora-nex.png)
 
+Captura já publicada neste repositório, preservada sem alterações. A imagem apresenta a interface; não disponibiliza as regras internas do aplicativo.
 
-## Limitações e disponibilidade
+## Funcionalidades da versão apresentada
 
-Esta página é uma apresentação de portfólio. O código-fonte, o executável, as configurações comerciais e as regras internas não estão disponíveis neste repositório. Não há download do aplicativo nesta etapa.
+- Seleção de distribuidora e bandeira tarifária.
+- Entrada do crédito de energia em kWh e do percentual de desconto.
+- Exibição de um resumo dos resultados calculados.
+- Abertura de demonstrativos do cálculo.
+- Cópia de resumos para a área de transferência.
+- Tela de configuração de parâmetros tarifários.
 
-A interface e os resultados não são demonstrados por capturas de tela neste material. Assim, nenhuma imagem foi incluída.
+## Tecnologias e competências exercitadas
 
-## Privacidade
+| Tecnologia | Aplicação no projeto |
+| --- | --- |
+| Python | Lógica da aplicação e organização dos fluxos |
+| PySide6 | Interface desktop, campos, seleções e ações do usuário |
+| PyInstaller | Empacotamento para execução no Windows |
 
-Este repositório contém somente este texto descritivo. Não inclui código-fonte, fórmulas, tarifas, parâmetros comerciais, dados de clientes, executáveis, imagens de marca ou arquivos de configuração.
+O projeto exercita a transformação de uma necessidade prática em software, a organização de entradas e saídas e a integração entre interface e lógica de aplicação.
+
+## Disponibilidade e limites
+
+Este repositório apresenta documentação e a captura de interface já publicada. O código-fonte, o executável, as fórmulas, as tarifas, os parâmetros comerciais e as configurações internas permanecem privados. Não há download do aplicativo.
+
+A documentação permite conhecer a proposta e a interface, mas não reproduzir nem auditar os cálculos. Não são divulgados resultados adicionais, dados de clientes ou novos materiais comerciais.
 
 ---
-Projeto de portfólio pessoal. A apresentação não concede licença ou autorização de uso do aplicativo privado, de suas regras comerciais ou de marcas associadas.
+
+Portfólio pessoal. A apresentação não concede licença de uso do aplicativo privado, de suas regras comerciais ou de marcas associadas.
